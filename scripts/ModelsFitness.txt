@@ -1,6 +1,6 @@
-Wine Quality Analysis with K-Nearest Neighbours	Accuracy: 0.5650	F1-Score: 0.5650
-Wine Quality Analysis with Logistic Regression	Accuracy: 0.5514	F1-Score: 0.5514
-Wine Quality Analysis with Support Vector Machine	Accuracy: 0.5710	F1-Score: 0.5710
-Wine Quality Analysis with Naive Bayes	Accuracy: 0.4960	F1-Score: 0.4960
-Wine Quality Analysis with Decision Tree	Accuracy: 0.5410	F1-Score: 0.5410
-Wine Quality Analysis with Random Forest	Accuracy: 0.5618	F1-Score: 0.5618
+Wine Quality Analysis with k-Nearest Neighbour	Processing (sec):0.1041	Accuracy: 0.5650	F1-Score: 0.5650
+Wine Quality Analysis with Logistic Regression	Processing (sec):0.0943	Accuracy: 0.5514	F1-Score: 0.5514
+Wine Quality Analysis with Support Vector Machine	Processing (sec):42.0733	Accuracy: 0.5710	F1-Score: 0.5414
+Wine Quality Analysis with Naive Bayes	Processing (sec):0.0030	Accuracy: 0.4960	F1-Score: 0.4960
+Wine Quality Analysis with Decision Tree	Processing (sec):0.0090	Accuracy: 0.5410	F1-Score: 0.5410
+Wine Quality Analysis with Random Forest	Processing (sec):0.4354	Accuracy: 0.5618	F1-Score: 0.5618
