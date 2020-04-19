@@ -1,0 +1,48 @@
+#3
+precision  0.523882
+recall     0.528634
+fscore     0.520462
+accuracy   0.528634
+3.509303092956543 sec
+
+#4
+precision  0.531739
+recall     0.540749
+fscore     0.530679
+accuracy   0.540749
+3.6455562114715576 sec
+
+#5
+precision  0.566630
+recall     0.572137
+fscore     0.563561
+accuracy   0.572137
+3.801682233810425 sec
+
+#6
+precision  0.567944
+recall     0.569934
+fscore     0.566192
+accuracy   0.569934
+3.9813380241394043 sec
+
+#7
+precision  0.566596
+recall     0.567731
+fscore     0.564174
+accuracy   0.567731
+4.079184055328369 sec
+
+#8
+precision  0.580964
+recall     0.580396
+fscore     0.576208
+accuracy   0.580396
+4.3115434646606445 sec
+
+
+#8
+precision  0.572973
+recall     0.574890
+fscore     0.570913
+accuracy   0.574890
