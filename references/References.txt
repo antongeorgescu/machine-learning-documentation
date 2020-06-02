@@ -15,12 +15,11 @@ https://towardsdatascience.com/the-complete-guide-for-topics-extraction-in-pytho
 
 https://docs.microsoft.com/en-us/azure/cognitive-services/LUIS/howto-add-prebuilt-models?WT.mc_id=email
 http://www.nltk.org/book/ch01.html --> Natural Language Processing with Python
-– Analyzing Text with the Natural Language Toolkit
+â€“ Analyzing Text with the Natural Language Toolkit
 Steven Bird, Ewan Klein, and Edward Loper
 http://www.nltk.org/ --> NLTK package and corpora
 
 https://www.linkedin.com/pulse/machine-learning-instead-einstein-anton-georgescu
-
 ===========================================================================================
 "C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python37_64/scripts/pip3.exe" install --trusted-host pypi.org --trusted-host files.pythonhosted.org botbuilder-core
 "C:/Program Files (x86)/Microsoft Visual Studio/Shared/Python37_64/scripts/cookiecutter" echo.zip
