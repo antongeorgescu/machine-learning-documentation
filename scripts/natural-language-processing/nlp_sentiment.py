@@ -6,6 +6,13 @@ from nltk import FreqDist, classify, NaiveBayesClassifier
 
 import re, string, random
 
+import nltk
+nltk.download('twitter_samples')
+nltk.download('stopwords')
+nltk.download('averaged_perceptron_tagger')
+nltk.download('wordnet')
+nltk.download('punkt')
+
 def remove_noise(tweet_tokens, stop_words = ()):
     # following are the syntactic elements to be removed:
     # Hyperlinks - All hyperlinks in Twitter are converted to the URL shortener t.co. Therefore, keeping them in the text processing would not add any value to the analysis.
