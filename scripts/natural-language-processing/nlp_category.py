@@ -24,7 +24,12 @@ for token in tokens:
     if token in stopwords.words('english'):
         clean_tokens.remove(token)
 
+# The most basic form of analysis on textual data is to take out the word frequency. 
 freq = nltk.FreqDist(clean_tokens)
+
+print(freq.most_common(10))
+
+
 for key,val in freq.items():
     print(str(key) + ':' + str(val))
 freq.plot(20, cumulative=False)
